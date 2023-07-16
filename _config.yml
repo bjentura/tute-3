@@ -1,0 +1,7 @@
+# Define the site theme, this one is meant to be like a blog
+theme: minima
+
+# Now also add some info around the site
+title: My example GitHub site
+author: A. Newbie
+description: A simple GitHub site based on a blog template.
